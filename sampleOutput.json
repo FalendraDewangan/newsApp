@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Graeme Virtue, Henry Wong, Danielle De Wolfe and Jack Seale",
+            "title": "TV tonight: an epic clash of the Taskmaster titans",
+            "description": "The season winners of series six to 10 tackle more nonsensical challenges. Plus: Motherland’s Anna Maxwell Martin delves into her family history. Here’s what to watch this evening Continue reading...",
+            "url": "https://amp.theguardian.com/tv-and-radio/2022/jun/23/tv-tonight-an-epic-clash-of-the-taskmaster-titans",
+            "urlToImage": "https://i.guim.co.uk/img/media/4686ea9b7e0c396b3bd61712f9d01107901fed6a/0_1140_11326_6796/master/11326.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69c645a31598e8e067cd7f2921262d52",
+            "publishedAt": "2022-06-23T05:20:38Z",
+            "content": "Taskmaster: Champion of Champions 2022\r\n9pm, Channel 4\r\nThe first of these Taskmaster specials pitted the top dogs of seasons one to five against each other. Here is the natural follow-up featuring t… [+2514 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mundodeportivo.com"
+            },
+            "author": "Santiago Nolla Zayas",
+            "title": "Dominio en fútbol y basket",
+            "description": "La Federación Catalana de Fútbol es la que más licencias posee en España (162.000) pero Andalucía y Madrid superan en clubs de Primera División a los catalanes. La comunidad madrileña tiene al Madrid, Atlético, Rayo y Getafe y la andaluza a Sevilla, Betis, Cá…",
+            "url": "https://www.mundodeportivo.com/opinion/20220623/1001826492/dominio-futbol-basket.html",
+            "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2022/02/11/62069e422ac1a.jpeg",
+            "publishedAt": "2022-06-23T05:05:00Z",
+            "content": "La Federación Catalana de Fútbol es la que más licencias posee en España (162.000) pero Andalucía y Madrid superan en clubs de Primera División a los catalanes. La comunidad madrileña tiene al Madrid… [+1714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "'He grew in a team of superstars. He was like, 'they will take care of me' - Hindustan Times",
+            "description": "<ol><li>'He grew in a team of superstars. He was like, 'they will take care of me'  Hindustan Times\r\n</li><li>Why Hardik Pandya Should be The Next India Captain  News18\r\n</li><li>\"He Tried To Replicate Steyn's Bowling Action\": Former National Selector On Hard…",
+            "url": "https://www.hindustantimes.com/cricket/hardik-pandya-grew-up-in-a-team-of-superstars-it-was-easy-for-him-to-say-they-will-take-care-of-me-gavaskar-notes-big-change-in-india-allrounder-101655949400766.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/06/23/1600x900/gavaskar_pandya_1655950939306_1655950945993.jpg",
+            "publishedAt": "2022-06-23T02:23:32Z",
+            "content": "Team India returned to action earlier this month when the side took on South Africa in the five-match T20I series at home. The series ended in a 2-2 draw with the fifth and final game being washed ou… [+1836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Roland White",
+            "title": "ROLAND WHITE reviews last night's TV: Howzat! A Caribbean celebration of cricket and Frank Spencer",
+            "description": "ROLAND WHITE: In last night's programme, Lenny Henry wondered how much Caribbean culture Britain has absorbed in return. It's more than you might think.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-10944043/ROLAND-WHITE-reviews-nights-TV-Howzat-Caribbean-celebration-cricket-Frank-Spencer.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/06/23/01/59412467-0-image-a-46_1655944816454.jpg",
+            "publishedAt": "2022-06-23T00:58:27Z",
+            "content": "Lenny Henrys Caribbean Britain\r\nRating: \r\nSuspect \r\nRating: \r\nLenny Henry's mum once lined up her seven children and gave them a stern lecture on modern race relations. 'You have to integrate,' she s… [+3857 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Headlines"
+            },
+            "author": "Yackulic Khristopher",
+            "title": "How To Pick Players For Fantasy Cricket?",
+            "description": "One of the most crucial aspects of playing on an online fantasy cricket app, if not the most important aspect of playing fantasy cricket is to pick players. But how does one do that? My11Circle provides you all the tools through which one can go about picking…",
+            "url": "https://www.androidheadlines.com/2022/06/how-to-pick-players-for-fantasy-cricket.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2022/06/Fantasy-cricket-image-8484948894984.jpg",
+            "publishedAt": "2022-06-23T06:21:02Z",
+            "content": "One of the most crucial aspects of playing on an online fantasy cricket app, if not the most important aspect of playing fantasy cricket is to pick players. But how does one do that? My11Circle provi… [+3507 chars]"
+        }
+    ]
+}
